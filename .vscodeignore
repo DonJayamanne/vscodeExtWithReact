@@ -1,0 +1,13 @@
+.vscode/**
+.vscode-test/**
+out/test/**
+test/**
+src/**
+out/test/**
+browser/**
+browserdist/**
+**/*.map
+.gitignore
+tsconfig.json
+vsc-extension-quickstart.md
+webpack.config.js
